@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_tdd",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
